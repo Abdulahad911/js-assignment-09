@@ -1,6 +1,6 @@
 // //1. table
 // var num = +prompt("Please Enter your number");
-// for (let index = 0; index < 10; index++) {
+// for (let index = 1; index < 10; index++) {
 //    var multiply = num * index; 
 //   console.log(`${num}*${index}=${multiply}`);
     
